@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pgisgbwoajxirl6j?svg=true)](https://ci.appveyor.com/project/FedVas/rest)
